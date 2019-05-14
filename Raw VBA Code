@@ -1,3 +1,5 @@
+' Vitor Maduro 2018
+
 ' Main Code
 Dim snake As New SnakeClass
 Dim arrayPosX(301) As Integer
